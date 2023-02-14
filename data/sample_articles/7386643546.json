@@ -1,0 +1,25 @@
+{
+    "uri": "7386643546",
+    "lang": "eng",
+    "isDuplicate": false,
+    "date": "2023-02-06",
+    "time": "12:33:00",
+    "dateTime": "2023-02-06T12:33:00Z",
+    "dateTimePub": "2023-02-06T12:31:00Z",
+    "dataType": "news",
+    "sim": 0.6000000238418579,
+    "url": "https://www.rt.com/news/571037-syria-rail-service-earthquake/",
+    "title": "Syria stops rail service  --  RT World News",
+    "body": "Rail traffic has been suspended across Syria after the country was hit by a deadly earthquake, the Transport Ministry said on Monday. In a statement on its website, the ministry said technical teams were inspecting roads, tracks, bridges, and ferries for damage.\n\nA powerful earthquake struck southern T\u00fcrkiye and northwestern Syria on Monday morning, causing destruction in both countries. According to the Syrian Health Ministry, 371 people were killed and at least 1,089 injured.\n\nThe Syrian Oil and Mineral Resources Ministry said that the Banias refinery on the Mediterranean coast, the country's largest, was shut down after tremors caused a leak of petroleum products.\n\nAccording to the ministry, the repairs are expected to take 48 hours. It said that gas facilities in Aleppo were also damaged.\n\nOfficials said several historical sites and artifacts were damaged, including Aleppo's medieval citadel, a UNESCO World Heritage Site. Cracks appeared on the facade of the ancient city's main museum, according to the authorities.\n\nThe army has been deployed to the areas affected to help rescuers clear the rubble and look for survivors.\n\nIn neighboring T\u00fcrkiye, 1,014 people were killed and 5,385 injured, the authorities said. According to President Recep Tayyip Erdogan, the disaster was the strongest earthquake the country has seen since 1939.",
+    "source": {
+        "uri": "rt.com",
+        "dataType": "news",
+        "title": "RT"
+    },
+    "authors": [],
+    "image": "https://mf.b37mrtl.ru/files/2023.02/article/63e0f20785f5404f662008f7.jpg",
+    "eventUri": "eng-8381231",
+    "sentiment": -0.2862745098039216,
+    "wgt": 4,
+    "relevance": 4
+}

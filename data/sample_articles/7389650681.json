@@ -1,0 +1,25 @@
+{
+    "uri": "7389650681",
+    "lang": "eng",
+    "isDuplicate": true,
+    "date": "2023-02-08",
+    "time": "04:24:00",
+    "dateTime": "2023-02-08T04:24:00Z",
+    "dateTimePub": "2023-02-08T04:23:00Z",
+    "dataType": "news",
+    "sim": 0,
+    "url": "https://ca.news.yahoo.com/shipping-containers-ablaze-turkeys-iskenderun-133120396.html",
+    "title": "Fire at Turkey's Iskenderun Port extinguished -defence ministry",
+    "body": "ISKENDERUN, Turkey (Reuters) -A fire that engulfed hundreds of shipping containers at Turkey's Iskenderun Port after massive earthquakes in the region have been extinguished, the defence ministry said on Tuesday, but it was not clear when operations would resume at the port.\n\nTurkey's maritime authority said on Monday that the port, located on the Mediterranean coast in the southern province of Hatay, was damaged due to the earthquake that struck Turkey and neighbouring Syria.\n\nDrone footage showed fierce flames blackening hundreds of containers on the dock, with water jets from a fire truck dwarfed by the scale of the blaze that broke out on Monday. Thick black smoke billowed into the sky.\n\nTurkish shipping agency Tribeca said earlier on Tuesday some cargo areas of Limak port at the Iskenderun complex were still on fire.\n\nThe blaze led to the shutdown of all operations at the terminal until further notice and forced freight liners to divert vessels to other ports.\n\nThe defence ministry said later on Tuesday the fire was put out thanks to efforts by military helicopters and planes after Monday's efforts to douse the flames from offshore failed.\n\nLeading global container shipping group AP Moller Maersk said there had been significant damage to logistics and transport infrastructure around the earthquake epicentre, including at the Port of Iskenderun.\n\nIt said it was looking to re-route ships as needed, given the \"severe structural damage, leading to a complete stop of all operations until further notice\".\n\n\"We will need to perform a change of destination for all bookings bound for the port or already on the water. We are currently planning to divert containers to nearby hubs within operational feasibility or hold at transhipment ports - including Port of Mersin (in Turkey) and Port Said (in Egypt).\"\n\nMaersk added in an updated advisory on Tuesday that a fire broke out among containers at the terminal on Monday evening after the earthquake struck and the company was working to assess the potential loss of cargo.\n\n\"It's not yet known how long recovery efforts will take and when the port can undergo a full inspection of the damage.\"\n\nGerman container shipping line Hapag Lloyd said it was taking shipments from Mersin given the closure of Iskenderun.\n\nA source from a container broker said the fire most likely originated in a container filled with flammable industrial oil, judging by the flames and smoke.\n\nOther containers were toppled on their sides, thwarting access for the emergency services. Authorities had tried in vain to tackle the fire by boat on Monday, with damage nearby from the quake hampering access to the site.\n\nMore than 1,200 buildings were destroyed by the earthquake in Hatay province alone.\n\nIskenderun hosts heavy industry such as steel and is one of the two major container hubs on Turkey's southeastern shores. The port focuses especially on domestic Turkish trade, rather than having a broader regional hub role, according to a shipping source.\n\nFollowing inspections of damage after the earthquake, the maritime authority said on Monday that operations were continuing in ports apart from Iskenderun.\n\nA tanker docked at Turkey's Ceyhan oil export hub on Tuesday to load Iraqi crude oil, the first since the earthquakes on Monday, according to ship tracking data and a trading source, after bad weather earlier in the day prevented loading.\n\n(Reporting by Antony Paone, Can Sezer and Jonathan Saul; Editing by Alison Williams, Mark Heinrich and Angus MacSwan)",
+    "source": {
+        "uri": "ca.news.yahoo.com",
+        "dataType": "news",
+        "title": "Yahoo"
+    },
+    "authors": [],
+    "image": "https://media.zenfs.com/en/reuters.com/197d11dd45bde39193f1a0f1fd8bd8a2",
+    "eventUri": null,
+    "sentiment": -0.4431372549019608,
+    "wgt": 6,
+    "relevance": 6
+}

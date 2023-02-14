@@ -1,0 +1,25 @@
+{
+    "uri": "7374406743",
+    "lang": "eng",
+    "isDuplicate": true,
+    "date": "2023-01-30",
+    "time": "07:19:00",
+    "dateTime": "2023-01-30T07:19:00Z",
+    "dateTimePub": "2023-01-30T06:40:00Z",
+    "dataType": "news",
+    "sim": 0,
+    "url": "https://www.dailymail.co.uk/wires/ap/article-11691291/Earthquake-rocks-Chinas-northwestern-Xinjiang-region.html",
+    "title": "Earthquake rocks China's northwestern Xinjiang region",
+    "body": "BEIJING (AP) - Residents and travelers sought shelter after a strong earthquake rocked a remote part of northwestern China on Monday morning.\n\nNo injuries or major damage have been reported following the temblor that struck the Xinjiang region at 7:49 a.m., according to the official Xinhua News Agency.\n\nState broadcaster CCTV showed footage of people evacuating an airport departure hall and ceiling fixtures swaying as the ground rocked. Ground crews were seen inspecting the airport's exterior as the sun began to rise over the region's Shahe county.\n\nThe China Earthquake Networks Center registered the quake at a preliminary magnitude of 6.1, while the U.S. Geological Survey reported it as 5.7.\n\nA vast, resource-rich region of mountains and deserts, Xinjiang is one of China\u00b4s most seismically volatile regions, though most quakes strike in sparsely inhabited areas outside major cities.\n\nInvestigators were checking on the epicenter but no disruptions had been reported to the local power grid, oil and gas production or petrochemical industries, Xinhua said.\n\nChina\u00b4s deadliest recent earthquake was magnitude 7.9 that struck Sichuan province, south of Xinjiang, in 2008, killing nearly 90,000 people.",
+    "source": {
+        "uri": "dailymail.co.uk",
+        "dataType": "news",
+        "title": "Daily Mail Online"
+    },
+    "authors": [],
+    "image": null,
+    "eventUri": null,
+    "sentiment": -0.2392156862745098,
+    "wgt": 5,
+    "relevance": 5
+}
