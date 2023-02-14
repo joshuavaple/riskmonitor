@@ -1,0 +1,433 @@
+{
+    "uri": "eng-8400357",
+    "concepts": [
+        {
+            "uri": "http://en.wikipedia.org/wiki/Poet",
+            "type": "wiki",
+            "score": 100,
+            "label": {
+                "eng": "Poet"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Poetry",
+            "type": "wiki",
+            "score": 100,
+            "label": {
+                "eng": "Poetry"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/San_Francisco",
+            "type": "loc",
+            "score": 93,
+            "label": {
+                "eng": "San Francisco"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "San Francisco"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Governor",
+            "type": "wiki",
+            "score": 75,
+            "label": {
+                "eng": "Governor"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Maine",
+            "type": "loc",
+            "score": 72,
+            "label": {
+                "eng": "Maine"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Maine"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Janet_Mills",
+            "type": "person",
+            "score": 64,
+            "label": {
+                "eng": "Janet Mills"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Summer_of_Love",
+            "type": "wiki",
+            "score": 61,
+            "label": {
+                "eng": "Summer of Love"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/University_of_Maine_School_of_Law",
+            "type": "org",
+            "score": 60,
+            "label": {
+                "eng": "University of Maine School of Law"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Colby_College",
+            "type": "org",
+            "score": 60,
+            "label": {
+                "eng": "Colby College"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Insurance",
+            "type": "wiki",
+            "score": 60,
+            "label": {
+                "eng": "Insurance"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Joint_session_of_the_United_States_Congress",
+            "type": "wiki",
+            "score": 59,
+            "label": {
+                "eng": "Joint session of the United States Congress"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+            "type": "org",
+            "score": 59,
+            "label": {
+                "eng": "Democratic Party (United States)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Inauguration",
+            "type": "wiki",
+            "score": 58,
+            "label": {
+                "eng": "Inauguration"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/John_F._Kennedy",
+            "type": "person",
+            "score": 57,
+            "label": {
+                "eng": "John F. Kennedy"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Prosecutor",
+            "type": "wiki",
+            "score": 57,
+            "label": {
+                "eng": "Prosecutor"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Politician",
+            "type": "wiki",
+            "score": 57,
+            "label": {
+                "eng": "Politician"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+            "type": "loc",
+            "score": 40,
+            "label": {
+                "eng": "Portland, Oregon"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Portland, Oregon"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Irony",
+            "type": "wiki",
+            "score": 39,
+            "label": {
+                "eng": "Irony"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Richard_Blanco",
+            "type": "person",
+            "score": 34,
+            "label": {
+                "eng": "Richard Blanco"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Massachusetts_State_House",
+            "type": "wiki",
+            "score": 30,
+            "label": {
+                "eng": "Massachusetts State House"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Pragmatism",
+            "type": "wiki",
+            "score": 30,
+            "label": {
+                "eng": "Pragmatism"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/English_language",
+            "type": "wiki",
+            "score": 30,
+            "label": {
+                "eng": "English language"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Snowy_owl",
+            "type": "wiki",
+            "score": 28,
+            "label": {
+                "eng": "Snowy owl"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Jamie_Wyeth",
+            "type": "person",
+            "score": 28,
+            "label": {
+                "eng": "Jamie Wyeth"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Augusta,_Maine",
+            "type": "loc",
+            "score": 24,
+            "label": {
+                "eng": "Augusta, Maine"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Augusta, Maine"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Loon",
+            "type": "wiki",
+            "score": 22,
+            "label": {
+                "eng": "Loon"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Associated_Press",
+            "type": "org",
+            "score": 20,
+            "label": {
+                "eng": "Associated Press"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Wesley_McNair",
+            "type": "person",
+            "score": 19,
+            "label": {
+                "eng": "Wesley McNair"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/University_of_Maine_at_Farmington",
+            "type": "org",
+            "score": 19,
+            "label": {
+                "eng": "University of Maine at Farmington"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Emeritus",
+            "type": "wiki",
+            "score": 19,
+            "label": {
+                "eng": "Emeritus"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Poet_laureate",
+            "type": "wiki",
+            "score": 19,
+            "label": {
+                "eng": "Poet laureate"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Barack_Obama",
+            "type": "person",
+            "score": 19,
+            "label": {
+                "eng": "Barack Obama"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Super_Bowl",
+            "type": "wiki",
+            "score": 18,
+            "label": {
+                "eng": "Super Bowl"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/U.S._state",
+            "type": "wiki",
+            "score": 18,
+            "label": {
+                "eng": "U.S. state"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Kansas_City_Chiefs",
+            "type": "wiki",
+            "score": 15,
+            "label": {
+                "eng": "Kansas City Chiefs"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Twitter",
+            "type": "org",
+            "score": 14,
+            "label": {
+                "eng": "Twitter"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Nick_Allegretti",
+            "type": "person",
+            "score": 13,
+            "label": {
+                "eng": "Nick Allegretti"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Iowa",
+            "type": "loc",
+            "score": 11,
+            "label": {
+                "eng": "Iowa"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Iowa"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Spotify",
+            "type": "org",
+            "score": 8,
+            "label": {
+                "eng": "Spotify"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Google",
+            "type": "org",
+            "score": 8,
+            "label": {
+                "eng": "Google"
+            }
+        }
+    ],
+    "eventDate": "2023-02-13",
+    "totalArticleCount": 22,
+    "title": {
+        "eng": "Poetic politician: Maine governor's skills include verse"
+    },
+    "summary": {
+        "eng": "AUGUSTA, Maine (AP) -- Many Mainers know Democratic Gov. Janet Mills as a level-headed leader, a pragmatic politician or even a former tough-minded prosecutor. But there's another side to the governor -- she's a poet.\n\n\"If more politicians knew poetry, and more poets knew politics, I am convinced the world would be a little better place in which to live,\" Mills said, quoting John F. Kennedy at her inauguration last month.\n\nHer inner poet emerged after she dropped out of Colby College and headed t"
+    },
+    "location": {
+        "type": "place",
+        "label": {
+            "eng": "Augusta, Maine"
+        },
+        "country": {
+            "type": "country",
+            "label": {
+                "eng": "United States"
+            }
+        }
+    },
+    "categories": [
+        {
+            "uri": "dmoz/Arts/Online_Writing/Poetry",
+            "label": "dmoz/Arts/Online Writing/Poetry",
+            "wgt": 100
+        },
+        {
+            "uri": "dmoz/Arts/Literature/Poetry",
+            "label": "dmoz/Arts/Literature/Poetry",
+            "wgt": 100
+        },
+        {
+            "uri": "dmoz/Recreation/Humor/Poetry",
+            "label": "dmoz/Recreation/Humor/Poetry",
+            "wgt": 100
+        },
+        {
+            "uri": "news/Politics",
+            "label": "news/Politics",
+            "wgt": 71
+        }
+    ],
+    "articleCounts": {
+        "eng": 22
+    },
+    "sentiment": 0.1529411764705881,
+    "wgt": 413942400,
+    "relevance": 17
+}

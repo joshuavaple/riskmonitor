@@ -1,0 +1,203 @@
+{
+    "uri": "zho-1366822",
+    "concepts": [
+        {
+            "uri": "http://en.wikipedia.org/wiki/Facebook",
+            "type": "org",
+            "score": 100,
+            "label": {
+                "eng": "Facebook"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States_dollar",
+            "type": "wiki",
+            "score": 72,
+            "label": {
+                "eng": "United States dollar"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Instagram",
+            "type": "org",
+            "score": 59,
+            "label": {
+                "eng": "Instagram"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Holding_company",
+            "type": "wiki",
+            "score": 56,
+            "label": {
+                "eng": "Holding company"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Chief_operating_officer",
+            "type": "wiki",
+            "score": 55,
+            "label": {
+                "eng": "Chief operating officer"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mark_Zuckerberg",
+            "type": "person",
+            "score": 49,
+            "label": {
+                "eng": "Mark Zuckerberg"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Sosai",
+            "type": "wiki",
+            "score": 48,
+            "label": {
+                "eng": "Sosai"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Advertising",
+            "type": "wiki",
+            "score": 48,
+            "label": {
+                "eng": "Advertising"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Chief_executive_officer",
+            "type": "wiki",
+            "score": 39,
+            "label": {
+                "eng": "Chief executive officer"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Social_media",
+            "type": "wiki",
+            "score": 30,
+            "label": {
+                "eng": "Social media"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Net_profit",
+            "type": "wiki",
+            "score": 28,
+            "label": {
+                "eng": "Net profit"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Public_policy",
+            "type": "wiki",
+            "score": 28,
+            "label": {
+                "eng": "Public policy"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/White_House",
+            "type": "wiki",
+            "score": 26,
+            "label": {
+                "eng": "White House"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Barack_Obama",
+            "type": "person",
+            "score": 26,
+            "label": {
+                "eng": "Barack Obama"
+            }
+        },
+        {
+            "uri": "http://zh.wikipedia.org/wiki/\u91d1\u878d\u6642\u5831",
+            "type": "org",
+            "score": 24,
+            "label": {
+                "eng": "\u91d1\u878d\u6642\u5831"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Amazon_(company)",
+            "type": "org",
+            "score": 21,
+            "label": {
+                "eng": "Amazon (company)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Apple_Inc.",
+            "type": "org",
+            "score": 18,
+            "label": {
+                "eng": "Apple Inc."
+            }
+        },
+        {
+            "uri": "http://zh.wikipedia.org/wiki/\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u56fd\u5bb6\u7ecf\u6d4e\u8d38\u6613\u59d4\u5458\u4f1a",
+            "type": "wiki",
+            "score": 17,
+            "label": {
+                "eng": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u56fd\u5bb6\u7ecf\u6d4e\u8d38\u6613\u59d4\u5458\u4f1a"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Macroeconomics",
+            "type": "wiki",
+            "score": 15,
+            "label": {
+                "eng": "Macroeconomics"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Microsoft",
+            "type": "org",
+            "score": 14,
+            "label": {
+                "eng": "Microsoft"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Stock",
+            "type": "wiki",
+            "score": 14,
+            "label": {
+                "eng": "Stock"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Sheryl_Sandberg",
+            "type": "person",
+            "score": 13,
+            "label": {
+                "eng": "Sheryl Sandberg"
+            }
+        }
+    ],
+    "eventDate": "2023-02-13",
+    "totalArticleCount": 15,
+    "title": {
+        "zho": "Meta\u8ba1\u5212\u8fdb\u884c\u66f4\u591a\u7684\u88c1\u5458"
+    },
+    "summary": {
+        "zho": "\u636e\u62a5\u9053\uff0cFacebook\u6bcd\u516c\u53f8Meta\u8ba1\u5212\u5728\u672a\u6765\u51e0\u5468\u5185\u8fdb\u4e00\u6b65\u524a\u51cf\u5176\u5458\u5de5\u4eba\u6570\u3002\u636e\u300a\u91d1\u878d\u65f6\u62a5\u300b\u62a5\u9053\uff0c\u8fd9\u5bb6\u79d1\u6280\u5de8\u5934\u7684\u5de5\u4f5c\u5df2\u7ecf\u653e\u7f13\uff0c\u800c\u5b83\u6b63\u5728\u7b56\u5212\u65b0\u4e00\u8f6e\u7684\u88c1\u5458\u8ba1\u5212\u3002Meta\u516c\u53f8\u53ef\u80fd\u4f1a\u57283\u6708\u7684\u67d0\u4e2a\u65f6\u5019\u5b8c\u6210\u5458\u5de5\u7ee9\u6548\u8bc4\u4f30\u540e\u5ba3\u5e03\u91cd\u7ec4\u300211\u6708\uff0c\u8be5\u516c\u53f8\u89e3\u96c7\u4e861.1\u4e07\u540d\u5458\u5de5\uff0c\u7ea6\u5360\u5176\u5168\u7403\u5458\u5de5\u603b\u6570\u768413%\u3002\u8fd9\u4e9b\u88c1\u5458\u662fMeta\u516c\u53f8\u8fd120\u5e74\u5386\u53f2\u4e0a\u89c4\u6a21\u6700\u5927\u7684\u4e00\u6b21\uff0c\u5f71\u54cd\u5230\u8be5\u516c\u53f8\u7684\u6bcf\u4e2a\u7ec4\u7ec7\u3002Meta\u516c\u53f8\u6ca1\u6709\u7acb\u5373\u56de\u5e94E"
+    },
+    "location": null,
+    "categories": [
+        {
+            "uri": "news/Business",
+            "label": "news/Business",
+            "wgt": 76
+        }
+    ],
+    "articleCounts": {
+        "zho": 15
+    },
+    "sentiment": null,
+    "wgt": 413942400,
+    "relevance": 24
+}

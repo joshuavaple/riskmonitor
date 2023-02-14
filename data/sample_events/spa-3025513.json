@@ -1,0 +1,305 @@
+{
+    "uri": "spa-3025513",
+    "concepts": [
+        {
+            "uri": "http://en.wikipedia.org/wiki/Airplane",
+            "type": "loc",
+            "score": 100,
+            "label": {
+                "eng": "Airplane"
+            },
+            "location": null
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Joe_Biden",
+            "type": "person",
+            "score": 89,
+            "label": {
+                "eng": "Joe Biden"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Andr\u00e9s_Manuel_L\u00f3pez_Obrador",
+            "type": "person",
+            "score": 87,
+            "label": {
+                "eng": "Andr\u00e9s Manuel L\u00f3pez Obrador"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Helicopter",
+            "type": "wiki",
+            "score": 69,
+            "label": {
+                "eng": "Helicopter"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Conflagration",
+            "type": "wiki",
+            "score": 67,
+            "label": {
+                "eng": "Conflagration"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/President_(government_title)",
+            "type": "wiki",
+            "score": 53,
+            "label": {
+                "eng": "President (government title)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States",
+            "type": "loc",
+            "score": 49,
+            "label": {
+                "eng": "United States"
+            },
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Barack_Obama",
+            "type": "person",
+            "score": 40,
+            "label": {
+                "eng": "Barack Obama"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/President_of_Mexico",
+            "type": "wiki",
+            "score": 39,
+            "label": {
+                "eng": "President of Mexico"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mexico",
+            "type": "loc",
+            "score": 36,
+            "label": {
+                "eng": "Mexico"
+            },
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Mexico"
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Aircraft",
+            "type": "wiki",
+            "score": 35,
+            "label": {
+                "eng": "Aircraft"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/National_Palace_(Mexico)",
+            "type": "wiki",
+            "score": 34,
+            "label": {
+                "eng": "National Palace (Mexico)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/North_American_Leaders'_Summit",
+            "type": "wiki",
+            "score": 24,
+            "label": {
+                "eng": "North American Leaders' Summit"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Jos\u00e9_Mar\u00eda_Morelos",
+            "type": "person",
+            "score": 24,
+            "label": {
+                "eng": "Jos\u00e9 Mar\u00eda Morelos"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+            "type": "wiki",
+            "score": 17,
+            "label": {
+                "eng": "Boeing 787 Dreamliner"
+            }
+        },
+        {
+            "uri": "http://es.wikipedia.org/wiki/Felipe_Calder\u00f3n",
+            "type": "wiki",
+            "score": 15,
+            "label": {
+                "eng": "Felipe Calder\u00f3n"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mexico_City",
+            "type": "loc",
+            "score": 13,
+            "label": {
+                "eng": "Mexico City"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Mexico City"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Mexico"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Enrique_Pe\u00f1a_Nieto",
+            "type": "person",
+            "score": 11,
+            "label": {
+                "eng": "Enrique Pe\u00f1a Nieto"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mexicana_de_Aviaci\u00f3n",
+            "type": "org",
+            "score": 10,
+            "label": {
+                "eng": "Mexicana de Aviaci\u00f3n"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Wine",
+            "type": "wiki",
+            "score": 10,
+            "label": {
+                "eng": "Wine"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States_dollar",
+            "type": "wiki",
+            "score": 10,
+            "label": {
+                "eng": "United States dollar"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/President_of_Chile",
+            "type": "wiki",
+            "score": 9,
+            "label": {
+                "eng": "President of Chile"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mexican_Air_Force",
+            "type": "wiki",
+            "score": 8,
+            "label": {
+                "eng": "Mexican Air Force"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mexican_peso",
+            "type": "wiki",
+            "score": 8,
+            "label": {
+                "eng": "Mexican peso"
+            }
+        },
+        {
+            "uri": "http://es.wikipedia.org/wiki/Secretar\u00eda_de_la_Defensa_Nacional",
+            "type": "wiki",
+            "score": 7,
+            "label": {
+                "eng": "Secretar\u00eda de la Defensa Nacional"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_Nations",
+            "type": "org",
+            "score": 6,
+            "label": {
+                "eng": "United Nations"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Europe",
+            "type": "loc",
+            "score": 5,
+            "label": {
+                "eng": "Europe"
+            },
+            "location": null
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Politics",
+            "type": "wiki",
+            "score": 5,
+            "label": {
+                "eng": "Politics"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Tabasco",
+            "type": "loc",
+            "score": 5,
+            "label": {
+                "eng": "Tabasco"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Tabasco"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "Mexico"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Argentina",
+            "type": "loc",
+            "score": 5,
+            "label": {
+                "eng": "Argentina"
+            },
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Argentina"
+                }
+            }
+        }
+    ],
+    "eventDate": "2023-02-13",
+    "totalArticleCount": 38,
+    "title": {
+        "spa": "AMLO le propuso un trueque a Biden por el avi\u00f3n presidencial: \"Le ped\u00ed que nos ayudara\""
+    },
+    "summary": {
+        "spa": "La petici\u00f3n del presidente la realiz\u00f3 en la reciente Cumbre de L\u00edderes de Am\u00e9rica del Norte\n\nEn la reciente Cumbre de L\u00edderes de Am\u00e9rica del Norte, realizada en M\u00e9xico, el presidente Andr\u00e9s Manuel L\u00f3pez Obrador le propuso a su hom\u00f3logo de Estados Unidos, Joe Biden, un trueque del avi\u00f3n presidencial por varias aeronaves para sofocar incendios.\n\nAs\u00ed lo revel\u00f3 el propio mandatario tabasque\u00f1o durante su conferencia de prensa ma\u00f1anera en Palacio Nacional. Y es que el jefe del Ejecutivo "
+    },
+    "location": null,
+    "categories": [],
+    "articleCounts": {
+        "spa": 38
+    },
+    "sentiment": null,
+    "wgt": 413942400,
+    "relevance": 39
+}
