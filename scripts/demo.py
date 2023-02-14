@@ -1,15 +1,17 @@
-# import riskmonitor as rm 
-from riskmonitor.configs.apicredentials import API_KEY
-import eventregistry as evreg
+import json
+import os
+
+data_dir = r'../data/sample_articles'
+file_list = [f for f in os.listdir(data_dir) if '.json' in f]
+
+def print_samples():
+    for file_name in file_list:
+        with open(os.path.join(data_dir, file_name), 'r') as file:
+            data = json.load(file)
+        print(data)
+        print('='*50)
 
 
-print(API_KEY)
-MAX_RESULTS = 5
-query_keywords = ["Port", "Shipping", "Disruption"]
-
-
-er = evreg.EventRegistry(apiKey = YOUR_API_KEY)
-
-q = QueryArticlesIter(keywords = QueryItems.OR(query_keywords))
-for art in q.execQuery(er, maxItems = MAX_RESULTS):
-    print(art)
+if __name__ == '__main__':    
+    print_samples()
+    print(file_list)

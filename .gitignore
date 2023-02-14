@@ -1,0 +1,4 @@
+venv/
+riskmonitor.egg-info/
+*.pyc
+.vscode/
