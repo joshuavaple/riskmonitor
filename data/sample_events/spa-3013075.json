@@ -1,0 +1,427 @@
+{
+    "uri": "spa-3013075",
+    "concepts": [
+        {
+            "uri": "http://en.wikipedia.org/wiki/South_Carolina",
+            "type": "loc",
+            "score": 100,
+            "label": {
+                "eng": "South Carolina"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "South Carolina"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+            "type": "org",
+            "score": 98,
+            "label": {
+                "eng": "Republican Party (United States)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Nikki_Haley",
+            "type": "person",
+            "score": 94,
+            "label": {
+                "eng": "Nikki Haley"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Donald_Trump",
+            "type": "person",
+            "score": 78,
+            "label": {
+                "eng": "Donald Trump"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_Nations",
+            "type": "org",
+            "score": 72,
+            "label": {
+                "eng": "United Nations"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Charleston,_South_Carolina",
+            "type": "loc",
+            "score": 56,
+            "label": {
+                "eng": "Charleston, South Carolina"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Charleston, South Carolina"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Governor",
+            "type": "wiki",
+            "score": 45,
+            "label": {
+                "eng": "Governor"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States",
+            "type": "loc",
+            "score": 44,
+            "label": {
+                "eng": "United States"
+            },
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "United States"
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/White_House",
+            "type": "wiki",
+            "score": 40,
+            "label": {
+                "eng": "White House"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/The_Post_and_Courier",
+            "type": "wiki",
+            "score": 38,
+            "label": {
+                "eng": "The Post and Courier"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Politics",
+            "type": "wiki",
+            "score": 37,
+            "label": {
+                "eng": "Politics"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Conservatism",
+            "type": "wiki",
+            "score": 32,
+            "label": {
+                "eng": "Conservatism"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+            "type": "org",
+            "score": 31,
+            "label": {
+                "eng": "Democratic Party (United States)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Immigration",
+            "type": "wiki",
+            "score": 23,
+            "label": {
+                "eng": "Immigration"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Joe_Biden",
+            "type": "person",
+            "score": 22,
+            "label": {
+                "eng": "Joe Biden"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+            "type": "loc",
+            "score": 19,
+            "label": {
+                "eng": "Washington, D.C."
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Washington, D.C."
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Twitter",
+            "type": "org",
+            "score": 17,
+            "label": {
+                "eng": "Twitter"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Kiawah_Island,_South_Carolina",
+            "type": "loc",
+            "score": 17,
+            "label": {
+                "eng": "Kiawah Island, South Carolina"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Kiawah Island, South Carolina"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas",
+            "type": "wiki",
+            "score": 16,
+            "label": {
+                "eng": "Indigenous peoples of the Americas"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Clemson_University",
+            "type": "org",
+            "score": 13,
+            "label": {
+                "eng": "Clemson University"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Charleston_County,_South_Carolina",
+            "type": "loc",
+            "score": 13,
+            "label": {
+                "eng": "Charleston County, South Carolina"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Charleston County, South Carolina"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States_dollar",
+            "type": "wiki",
+            "score": 12,
+            "label": {
+                "eng": "United States dollar"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Ron_DeSantis",
+            "type": "person",
+            "score": 10,
+            "label": {
+                "eng": "Ron DeSantis"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Florida",
+            "type": "loc",
+            "score": 10,
+            "label": {
+                "eng": "Florida"
+            },
+            "location": {
+                "type": "place",
+                "label": {
+                    "eng": "Florida"
+                },
+                "country": {
+                    "type": "country",
+                    "label": {
+                        "eng": "United States"
+                    }
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Tim_Scott",
+            "type": "person",
+            "score": 9,
+            "label": {
+                "eng": "Tim Scott"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/United_States_Capitol",
+            "type": "wiki",
+            "score": 8,
+            "label": {
+                "eng": "United States Capitol"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Iran",
+            "type": "loc",
+            "score": 8,
+            "label": {
+                "eng": "Iran"
+            },
+            "location": {
+                "type": "country",
+                "label": {
+                    "eng": "Iran"
+                }
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Boeing",
+            "type": "org",
+            "score": 7,
+            "label": {
+                "eng": "Boeing"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Airplane",
+            "type": "loc",
+            "score": 7,
+            "label": {
+                "eng": "Airplane"
+            },
+            "location": null
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Barack_Obama",
+            "type": "person",
+            "score": 7,
+            "label": {
+                "eng": "Barack Obama"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Flags_of_the_Confederate_States_of_America",
+            "type": "wiki",
+            "score": 6,
+            "label": {
+                "eng": "Flags of the Confederate States of America"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/White_supremacy",
+            "type": "wiki",
+            "score": 6,
+            "label": {
+                "eng": "White supremacy"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Mike_Pence",
+            "type": "person",
+            "score": 6,
+            "label": {
+                "eng": "Mike Pence"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/State_(polity)",
+            "type": "wiki",
+            "score": 6,
+            "label": {
+                "eng": "State (polity)"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Murder",
+            "type": "wiki",
+            "score": 6,
+            "label": {
+                "eng": "Murder"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+            "type": "wiki",
+            "score": 5,
+            "label": {
+                "eng": "2020 United States presidential election"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Vice_President_of_the_United_States",
+            "type": "wiki",
+            "score": 5,
+            "label": {
+                "eng": "Vice President of the United States"
+            }
+        },
+        {
+            "uri": "http://en.wikipedia.org/wiki/Black_people",
+            "type": "wiki",
+            "score": 5,
+            "label": {
+                "eng": "Black people"
+            }
+        }
+    ],
+    "eventDate": "2023-02-15",
+    "totalArticleCount": 19,
+    "title": {
+        "spa": "Nikki Haley ser\u00e1 canditada republicana a la Presidencia de EEUU"
+    },
+    "summary": {
+        "spa": "Washington, 1 feb. La exgobernadora de Carolina del Sur y exembajadora de EEUU ante la ONU, Nikki Haley, anunciar\u00e1 oficialmente el pr\u00f3ximo 15 de febrero sus aspiraciones a la candidatura presidencial republicana para las elecciones de 2024, inform\u00f3 hoy el diario The Post and Courier.\n\nSeg\u00fan el rotativo de Carolina del Sur, un miembro del \"c\u00edrculo \u00edntimo\" de Haley confirm\u00f3 la informaci\u00f3n de que la pol\u00edtica conservadora participar\u00e1 en el proceso de primarias del Partido Republicano.\n\nHale"
+    },
+    "location": {
+        "type": "place",
+        "label": {
+            "eng": "South Carolina"
+        },
+        "country": {
+            "type": "country",
+            "label": {
+                "eng": "United States"
+            }
+        }
+    },
+    "categories": [
+        {
+            "uri": "news/Politics",
+            "label": "news/Politics",
+            "wgt": 88
+        }
+    ],
+    "articleCounts": {
+        "spa": 19
+    },
+    "sentiment": null,
+    "wgt": 414115200,
+    "relevance": 4
+}
