@@ -1,12 +1,12 @@
 import json
 import os
 
-
-file_list = [f for f in os.listdir() if '.json' in f]
+data_dir = r'../data/sample_articles'
+file_list = [f for f in os.listdir(data_dir) if '.json' in f]
 
 def print_samples():
     for file_name in file_list:
-        with open(file_name, 'r') as file:
+        with open(os.path.join(data_dir, file_name), 'r') as file:
             data = json.load(file)
         print(data)
         print('='*50)
@@ -14,3 +14,4 @@ def print_samples():
 
 if __name__ == '__main__':    
     print_samples()
+    print(file_list)
