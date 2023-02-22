@@ -1,2 +1,3 @@
 eventregistry==8.12
 ipykernel == 6.15.0
+pandas ==1.5.0
